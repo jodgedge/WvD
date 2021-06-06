@@ -1,0 +1,65 @@
+!!! Font font_tempus uses a font (Tempus Sans ITC) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font_tempus\font_tempus.gms1.png
+!!! Font font_tempus_smaller uses a font (Tempus Sans ITC) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font_tempus_smaller\font_tempus_smaller.gms1.png
+!!! Font font_tempus_small uses a font (Tempus Sans ITC) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font_tempus_small\font_tempus_small.gms1.png
+Converting GML script: ${project_dir}\objects\obj_eater\Alarm_0.gml
+Converted description /// @description mouth not moving
+
+Converting GML script: ${project_dir}\objects\obj_mower\Create_0.gml
+Converted description /// @description flames not showing
+
+Converting GML script: ${project_dir}\objects\obj_mower\Collision_2eae4a2a-98c3-4d07-af52-681230f2b049.gml
+Converted description /// @description flames showing
+
+Converting GML script: ${project_dir}\objects\obj_mower\Collision_f2abdf72-3da6-40a4-b8a3-dcc6ec2b246f.gml
+Converted description /// @description flames showing
+
+Converting GML script: ${project_dir}\objects\obj_mower\Collision_e376f063-bc03-414b-9851-e32726d8e342.gml
+Converted description /// @description flames showing
+
+Converting GML script: ${project_dir}\objects\obj_mower\Collision_2cc9f638-5a42-4396-9269-54332bb2dbea.gml
+Converted description /// @description flames showing
+
+Converting GML script: ${project_dir}\objects\obj_win_text\Alarm_0.gml
+Converted description /// @description save the score and go to high score table
+
+Converting GML script: ${project_dir}\objects\obj_Name_Control\Alarm_1.gml
+Converted description /// @description Cursor flash alarm (off)/// @param off
+
+Converting GML script: ${project_dir}\objects\obj_Name_Control\Alarm_0.gml
+Converted description /// @description Cursor flash alarm (on)/// @param on
+
+Converting GML script: ${project_dir}\objects\obj_Highscore_Control\Step_0.gml
+Converted description /// @description if player loses all lives
+
+Converting GML script: ${project_dir}\objects\obj_Table_Control\Create_0.gml
+Converted description /// @description create high score table
+
+Added compatibility script 'action/action_another_room.gml'
+Added compatibility script 'action/action_change_object.gml'
+Added compatibility script 'action/action_create_object.gml'
+Added compatibility script 'action/action_draw_life.gml'
+Added compatibility script 'action/action_draw_score.gml'
+Added compatibility script 'action/action_draw_text.gml'
+Added compatibility script 'action/action_draw_variable.gml'
+Added compatibility script 'action/action_effect.gml'
+Added compatibility script 'action/action_font.gml'
+Added compatibility script 'action/action_highscore_clear.gml'
+Added compatibility script 'action/action_if_empty.gml'
+Added compatibility script 'action/action_if_variable.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_next_room.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_set_gravity.gml'
+Added compatibility script 'action/action_set_hspeed.gml'
+Added compatibility script 'action/action_set_life.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_set_score.gml'
+Added compatibility script 'action/action_timeline_set.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
